@@ -3,7 +3,7 @@
   ```css
   todor@github
   -----------
-  Name: Todor Bogosavljević
+  Name: "Todor Bogosavljević"
   Favorite Language: Python
   OS: Debian GNU/Linux 11 (bullseye) x86_64
   Uptime: 17 Years
