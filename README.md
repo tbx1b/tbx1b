@@ -8,18 +8,18 @@
                `+oooooo:                 Uptime: 18 years
                -+oooooo+:                Packages: 1041 (pacman) 
              `/:-:++oooo+:               Shell: bash 5.1.16 
-            `/++++/+++++++:              Resolution: 1680x1050
-           `/++++++++++++++:             DE: GNOME 42.3.1 
+            `/++++/+++++++:              Resolution: 1920x1080
+           `/++++++++++++++:             DE: GNOME 42
           `/+++ooooooooooooo/`           WM: Mutter 
          ./ooosssso++osssssso+`          WM Theme: Adwaita 
-        .oossssso-````/ossssss+`         Theme: Adwaita [GTK2/3] 
-       -osssssso.      :ssssssso.        Icons: Adwaita [GTK2/3] 
+        .oossssso-````/ossssss+`         Theme: Adwaita [GTK3] 
+       -osssssso.      :ssssssso.        Icons: Adwaita [GTK3] 
       :osssssss/        osssso+++.       Terminal: gnome-terminal 
-     /ossssssss/        +ssssooo/-       CPU: AMD Athlon 3000G (4) @ 3.500GHz 
-   `/ossssso+/:-        -:/+osssso+-     GPU: AMD ATI Radeon Vega Series / Rade 
-  `+sso+:-`                 `.-/+oso:    Memory: 4301MiB / 5857MiB 
+     /ossssssss/        +ssssooo/-       CPU: AMD Ryzen 5 1400 (8) @ 3.500GHz 
+   `/ossssso+/:-        -:/+osssso+-     GPU: AMD RX 580 8GB
+  `+sso+:-`                 `.-/+oso:    Memory: 8192 MB
  `++:.                           `-/+/
- .`                                 `/                           
+ .`                                 `/                         
                                                                  
   ```
   
