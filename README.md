@@ -5,4 +5,4 @@
 - ⛅ Crafting solutions in PHP and Python by day.
 - 🌌 Securing the digital world by night.
 
-I am passionate about backend development and cyber security.
+I am passionate about machine learning and cyber security.
