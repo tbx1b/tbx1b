@@ -7,7 +7,7 @@
 
 <h1>fb74bc3c-14b2-446f-b9fa-df3549e34f35</h1>
 
-<p>Scan the QR code</p>
+<p><- scan me</p>
 
 </td>
 </tr>
